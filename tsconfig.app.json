@@ -14,8 +14,8 @@
     "moduleDetection": "force",
     "noEmit": true,
     "jsx": "react-jsx",
-    "jsxImportSource": "react",
-    "types": ["vite/client", "react", "react-dom"],
+
+    "types": ["node", "vite", "react", "react-dom"],
 
     /* Linting */
     "strict": true,
